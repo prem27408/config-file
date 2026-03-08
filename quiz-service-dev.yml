@@ -1,3 +1,2 @@
 config:
-  value:"quiz-service we are in dev env"
-  
+  value: "quiz-service we are in dev env"
